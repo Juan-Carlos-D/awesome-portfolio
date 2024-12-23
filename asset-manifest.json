@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.6d981e46.css",
-    "main.js": "/my-portfolio/static/js/main.a117e467.js",
+    "main.js": "/my-portfolio/static/js/main.4770a3f3.js",
     "static/media/code.jpg": "/my-portfolio/static/media/code.ee3ba5c5930b87388041.jpg",
     "static/media/iss.png": "/my-portfolio/static/media/iss.08026d5ac406042a7623.png",
     "static/media/photographyport.png": "/my-portfolio/static/media/photographyport.43002e69df625bb9c196.png",
     "static/media/devcalisthenicsapp.png": "/my-portfolio/static/media/devcalisthenicsapp.a93af76d9a190e277149.png",
-    "static/media/unsplashapi.png": "/my-portfolio/static/media/unsplashapi.8244496787537da98a5c.png",
     "static/media/fitnesstracker.png": "/my-portfolio/static/media/fitnesstracker.0e55945170adec47da8f.png",
     "static/media/malaria.png": "/my-portfolio/static/media/malaria.78a832e4b2efb666dfa3.png",
     "static/media/Juan Carlos Dominguez - Resume.pdf": "/my-portfolio/static/media/Juan Carlos Dominguez - Resume.d40b6054776b2082f901.pdf",
+    "static/media/unidb.png": "/my-portfolio/static/media/unidb.2147f1b73ada9e425151.png",
     "index.html": "/my-portfolio/index.html",
     "main.6d981e46.css.map": "/my-portfolio/static/css/main.6d981e46.css.map",
-    "main.a117e467.js.map": "/my-portfolio/static/js/main.a117e467.js.map"
+    "main.4770a3f3.js.map": "/my-portfolio/static/js/main.4770a3f3.js.map"
   },
   "entrypoints": [
     "static/css/main.6d981e46.css",
-    "static/js/main.a117e467.js"
+    "static/js/main.4770a3f3.js"
   ]
 }
