@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.f8af10fa.css",
-    "main.js": "/my-portfolio/static/js/main.9560985b.js",
+    "main.js": "/my-portfolio/static/js/main.e8e89b81.js",
+    "static/media/Malaria Classifier.pdf": "/my-portfolio/static/media/Malaria Classifier.264f2df3fbc0d0afbaea.pdf",
     "static/media/iss.png": "/my-portfolio/static/media/iss.08026d5ac406042a7623.png",
     "static/media/photographyport.png": "/my-portfolio/static/media/photographyport.43002e69df625bb9c196.png",
     "static/media/devcalisthenicsapp.png": "/my-portfolio/static/media/devcalisthenicsapp.a93af76d9a190e277149.png",
@@ -12,10 +13,10 @@
     "static/media/unidb.png": "/my-portfolio/static/media/unidb.2147f1b73ada9e425151.png",
     "index.html": "/my-portfolio/index.html",
     "main.f8af10fa.css.map": "/my-portfolio/static/css/main.f8af10fa.css.map",
-    "main.9560985b.js.map": "/my-portfolio/static/js/main.9560985b.js.map"
+    "main.e8e89b81.js.map": "/my-portfolio/static/js/main.e8e89b81.js.map"
   },
   "entrypoints": [
     "static/css/main.f8af10fa.css",
-    "static/js/main.9560985b.js"
+    "static/js/main.e8e89b81.js"
   ]
 }
