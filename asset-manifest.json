@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.f8af10fa.css",
-    "main.js": "/my-portfolio/static/js/main.07aff6e0.js",
+    "main.js": "/my-portfolio/static/js/main.4592238b.js",
     "static/media/Malaria Classifier.pdf": "/my-portfolio/static/media/Malaria Classifier.6f033babd384cfb5c427.pdf",
     "static/media/University Database Report.pdf": "/my-portfolio/static/media/University Database Report.689e2ac4ccf5e706ae87.pdf",
     "static/media/dbsql.png": "/my-portfolio/static/media/dbsql.8ca0bee60ed7265aff8c.png",
@@ -14,10 +14,10 @@
     "static/media/me.jpg": "/my-portfolio/static/media/me.514d2680112072e4d515.jpg",
     "index.html": "/my-portfolio/index.html",
     "main.f8af10fa.css.map": "/my-portfolio/static/css/main.f8af10fa.css.map",
-    "main.07aff6e0.js.map": "/my-portfolio/static/js/main.07aff6e0.js.map"
+    "main.4592238b.js.map": "/my-portfolio/static/js/main.4592238b.js.map"
   },
   "entrypoints": [
     "static/css/main.f8af10fa.css",
-    "static/js/main.07aff6e0.js"
+    "static/js/main.4592238b.js"
   ]
 }
